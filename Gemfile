@@ -66,7 +66,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'devise'#ログイン等の機能
 gem "refile", require: "refile/rails", github: 'manfe/refile' #画像の投稿に必要
 gem "refile-mini_magick"#上に同じ
-gem 'bootstrap-sass', '~> 3.3.6'#Bootstrapとsassが使える
+gem 'bootstrap-sass', '~> 3.4.1'#Bootstrapとsassが使える
 gem 'jquery-rails'#railsでjqueryが使える
 gem 'pry-rails'#デバッグ用 ブレイクポイント設定してlog処理を見る
 gem 'kaminari'#ページャ機能
